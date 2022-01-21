@@ -1,0 +1,7 @@
+/.version
+/emskd/
+/libfyaml/
+/node_modules/
+/package.json
+/package-lock.json
+/runner
